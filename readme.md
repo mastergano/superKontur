@@ -7,7 +7,7 @@ TestovoeOddone Project
 Установка
 
 1. Склонируйте репозиторий:
-git clone https://your-repository-url.git
+git clone https://your-repository-url.git](https://github.com/mastergano/superKontur.git)
 
 2. Настройте базу данных и почтовые параметры в .env. Убедитесь, что ваши почтовые настройки для Mailtrap корректны:
 Вот пример Mailtrap:
